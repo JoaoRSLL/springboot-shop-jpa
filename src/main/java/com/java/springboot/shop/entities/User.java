@@ -1,4 +1,4 @@
-package entities;
+package com.java.springboot.shop.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
